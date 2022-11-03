@@ -1,0 +1,180 @@
+body {
+    text-align: center;
+    background-color: #F4EEFF;
+    margin: 0;
+    font-family: 'Merriweather', serif;
+    color: #40514E;
+}
+
+hr {
+
+    border: dotted #F7E9D7 6px;
+    border-bottom: none;
+    width: 7%;
+    margin: 80px auto;
+
+}
+
+
+.astudent {
+    font-size: large;
+    padding: 0;
+}
+
+.intro {
+    width: 30%;
+    margin: auto;
+}
+
+.top-container {
+    background-color: #F4EEFF;
+    padding-top: 13%;
+    position: relative;
+    margin: 0;
+}
+
+.middle-container {
+    background-color: white;
+    padding-top: 120px;
+    padding-bottom: 10px;
+
+}
+
+.bottom-container {
+    background-color: #F4EEFF;
+    padding: 10px;
+}
+
+.student {
+    text-decoration: solid;
+}
+
+h1 {
+    color: #424874;
+    margin: 50px auto 0 auto;
+    font-family: 'Sacramento', cursive;
+    font-size: 5.625rem;
+    font-weight: bold;
+}
+
+h2 {
+    color: #424874;
+
+    font-weight: normal;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2.5rem;
+    padding: 20px;
+}
+
+h3 {
+    color: #A6B1E1;
+
+    font-family: 'Montserrat', sans-serif;
+}
+
+p {
+    font-family: 'Montserrat', sans-serif;
+    line-height: 2;
+}
+
+.top-cloud {
+    position: absolute;
+    width: 150px;
+    height: 150px;
+    right: 300px;
+    top: 60px;
+}
+
+.bottom-cloud {
+    position: absolute;
+    left: 300px;
+    bottom: 300px;
+}
+
+.olivia-with-dog {
+    width: 300px;
+    height: 300px;
+}
+
+.music-skill {
+    width: 25%;
+    float: left;
+    margin-right: 50px;
+}
+
+.gym-skill {
+    width: 25%;
+    float: right;
+    margin-left: 50px;
+
+}
+
+.skill-row {
+    width: 50%;
+    margin: 100px auto;
+    text-align: left;
+    line-height: 2;
+}
+
+/* antifloat, clear left */
+*/
+/* .music-skill-description {
+    clear: left;
+}
+
+.gym-skill-description {
+    clear: right;
+} */
+
+.my-skills {
+    margin: 90px auto;
+}
+
+.contact-me {
+    margin: 90px auto;
+    line-height: 2;
+}
+
+.contact-message {
+    width: 40%;
+    margin: 40px auto;
+}
+
+.btn {
+    -webkit-border-radius: 8;
+    -moz-border-radius: 8;
+    border-radius: 8px;
+    font-family: 'Montserrat', sans-serif;
+    color: #ffffff;
+    font-size: 20px;
+    background: #BE9FE1;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+}
+
+.btn:hover {
+    background: #BE9FE1;
+    background-image: -webkit-linear-gradient(top, #BE9FE1, #937DC2);
+    background-image: -moz-linear-gradient(top, #BE9FE1, #937DC2);
+    background-image: -ms-linear-gradient(top, #BE9FE1, #937DC2);
+    background-image: -o-linear-gradient(top, #BE9FE1, #937DC2);
+    background-image: linear-gradient(to bottom, #BE9FE1, #937DC2);
+    text-decoration: none;
+}
+
+a {
+    color: #937DC2;
+    font-family: 'Montserrat', sans-serif;
+    margin: 10px 30px;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #424874;
+}
+
+.copyright {
+    color: #424874;
+font-size: 0.75rem;
+padding: 20px 0;
+}
